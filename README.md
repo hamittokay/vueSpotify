@@ -4,8 +4,9 @@
 
 ## Screenshots
 
-[![Imgur](http://i.imgur.com/6sWeBUz.png)]
-[![Imgur](http://i.imgur.com/6sWeBUz.png)]
+[Imgur](http://i.imgur.com/KYC0C67.jpg)
+
+[Imgur](http://i.imgur.com/KvWWmi4.jpg)
 
 ## Build Setup
 
