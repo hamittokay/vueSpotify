@@ -2,6 +2,11 @@
 
 > This is an app which uses Spotify API and built with VueJS
 
+## Screenshots
+
+[![Imgur](http://i.imgur.com/6sWeBUz.png)]
+[![Imgur](http://i.imgur.com/6sWeBUz.png)]
+
 ## Build Setup
 
 ``` bash
