@@ -1,6 +1,6 @@
-# giphyapi
+# vueSpotify
 
-> VueJS demo project for my YT VueJS video serie
+> This is an app which uses Spotify API and built with VueJS
 
 ## Build Setup
 
@@ -13,6 +13,4 @@ npm run dev
 
 # build for production with minification
 npm run build
-```
-
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+``
