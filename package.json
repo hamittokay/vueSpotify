@@ -1,8 +1,8 @@
 {
-  "name": "giphyapi",
-  "description": "VueJS demo project for my YT VueJS video serie",
+  "name": "vueSpotify",
+  "description": "This is an app which uses Spotify API and built with VueJS",
   "version": "1.0.0",
-  "author": "Fatih Acet <acetfatih@gmail.com>",
+  "author": "Hamit Tokay <hamit@wisecreative.co>",
   "private": true,
   "scripts": {
     "dev": "cross-env NODE_ENV=development webpack-dev-server --open --inline --hot",
