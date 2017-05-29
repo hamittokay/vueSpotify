@@ -3,10 +3,8 @@
 > This is an app which uses Spotify API and built with VueJS
 
 ## Screenshots
-
-[Imgur](http://i.imgur.com/KYC0C67.jpg)
-
-[Imgur](http://i.imgur.com/KvWWmi4.jpg)
+[![Imgur](http://i.imgur.com/KYC0C67.jpg)](http://i.imgur.com/KYC0C67.jpg)
+[![Imgur](http://i.imgur.com/KvWWmi4.jpg)](http://i.imgur.com/KvWWmi4.jpg)
 
 ## Build Setup
 
