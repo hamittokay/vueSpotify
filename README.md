@@ -1,6 +1,6 @@
 # vueSpotify
 
-> This is an app which uses Spotify API and built with VueJS
+> This is an app which uses Spotify API and was built with VueJS
 
 ## Screenshots
 [![Imgur](http://i.imgur.com/KYC0C67.jpg)](http://i.imgur.com/KYC0C67.jpg)
