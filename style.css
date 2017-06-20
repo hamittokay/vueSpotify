@@ -1,48 +1,65 @@
-a.link{
-padding :18px 30px!important;
-margin-right: 10px;
-background: #333;
-border-radius: 30px;
-color:#fff;
-cursor: pointer;
-display: inline-block;
+* {
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
-a{
-	text-decoration: none!important
+a.link {
+  padding: 18px 30px!important;
+  margin-right: 10px;
+  background: #333;
+  border-radius: 30px;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
 }
-*{
-	display: none: ;
+a {
+  text-decoration: none!important
 }
-span{
-	display: block
+* {
+  display: none;
 }
-.album{
-margin-bottom: 30px;
+span {
+  display: block
 }
-.green{
-background: #2ebd59!important;
+.album {
+  margin-bottom: 30px;
 }
-.green-color{
-color:#2ebd59;
+.green {
+  background: #2ebd59!important;
 }
-a.link:hover{
-text-decoration: none;
+.green-color {
+  color: #2ebd59;
 }
-
-.albums{
-margin-top: 50px;
+a.link:hover {
+  text-decoration: none;
 }
-.album-image{
-max-width: 100%;
-border-radius: 0
+.albums {
+  margin-top: 50px;
 }
-ul,li{margin-left: 0;list-style: none;padding-left: 0;}
-li:after{
-content: '';
-display: block;
-clear: both
+.album-image {
+  max-width: 100%;
+  border-radius: 0
 }
-
-.thumb-image{width: 100%;border-radius: 50%;}
-.navbar-brand a{color: #2ebd59}	
-.navbar-brand a:hover,.navbar-brand a:active,.navbar-brand a:focus{text-decoration: none}	
+ul,
+li {
+  margin-left: 0;
+  list-style: none;
+  padding-left: 0;
+}
+li:after {
+  content: '';
+  display: block;
+  clear: both
+}
+.thumb-image {
+  width: 100%;
+  border-radius: 50%;
+}
+.navbar-brand a {
+  color: #2ebd59
+}
+.navbar-brand a:hover,
+.navbar-brand a:active,
+.navbar-brand a:focus {
+  text-decoration: none
+}
