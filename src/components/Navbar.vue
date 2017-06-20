@@ -40,11 +40,3 @@ export default {
 	name: 'Navbar'
 }
 </script>
-
-<style>
-* {
-	list-style: none;
-	margin: 0;
-	padding: 0;
-}
-</style>
