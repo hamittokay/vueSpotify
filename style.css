@@ -1,65 +1,65 @@
 * {
-    list-style: none;
-    margin: 0;
-    padding: 0;
+  list-style: none;
+  margin: 0;
+  padding: 0;
 }
 a.link {
-    padding: 18px 30px!important;
-    margin-right: 10px;
-    background: #333;
-    border-radius: 30px;
-    color: #fff;
-    cursor: pointer;
-    display: inline-block;
+  padding: 18px 30px!important;
+  margin-right: 10px;
+  background: #333;
+  border-radius: 30px;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
 }
 a {
-    text-decoration: none!important
+  text-decoration: none!important
 }
 * {
-    display: none;
+  display: none;
 }
 span {
-    display: block
+  display: block
 }
 .album {
-    margin-bottom: 30px;
+  margin-bottom: 30px;
 }
 .green {
-    background: #2ebd59!important;
+  background: #2ebd59!important;
 }
 .green-color {
-    color: #2ebd59;
+  color: #2ebd59;
 }
 a.link:hover {
-    text-decoration: none;
+  text-decoration: none;
 }
 .albums {
-    margin-top: 50px;
+  margin-top: 50px;
 }
 .album-image {
-    max-width: 100%;
-    border-radius: 0
+  max-width: 100%;
+  border-radius: 0
 }
 ul,
 li {
-    margin-left: 0;
-    list-style: none;
-    padding-left: 0;
+  margin-left: 0;
+  list-style: none;
+  padding-left: 0;
 }
 li:after {
-    content: '';
-    display: block;
-    clear: both
+  content: '';
+  display: block;
+  clear: both
 }
 .thumb-image {
-    width: 100%;
-    border-radius: 50%;
+  width: 100%;
+  border-radius: 50%;
 }
 .navbar-brand a {
-    color: #2ebd59
+  color: #2ebd59
 }
 .navbar-brand a:hover,
 .navbar-brand a:active,
 .navbar-brand a:focus {
-    text-decoration: none
+  text-decoration: none
 }
